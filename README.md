@@ -28,7 +28,7 @@
       <li>Canada PR & Express Entry</li>
       <li>Student Visa (USA, UK, Canada, Australia)</li>
       <li>Visitor / Tourist Visa</li>
-      <li>IELTS & PTE Coaching</li>
+      <li>Work Visa</li>
       <li>Post Landing Services</li>
     </ul>
   </section>
@@ -40,8 +40,8 @@
 
   <section id="contact">
     <h2>Contact Us</h2>
-    <p><strong>Address:</strong> 304, XYZ Business Park, Alkapuri, Vadodara, Gujarat</p>
-    <p><strong>Phone:</strong> +91-9876543210</p>
+    <p><strong>Address:</strong> FF4, 1st Floor, Shri Sidheshwar Business Harbour, Narayana Vidyalaya Road, Near Waghodia Ring Road, Vadodara, Gujarat</p>
+    <p><strong>Phone:</strong> +91-8799273744</p>
     <p><strong>Email:</strong> contact@truevisionimmigrations.com</p>
     <p><a href="https://forms.gle/your-google-form-link" target="_blank">Click here for a free assessment</a></p>
   </section>
