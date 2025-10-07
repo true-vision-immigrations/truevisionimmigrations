@@ -149,3 +149,32 @@ footer {
 .auth-form button:hover {
   background-color: #0056b3;
 }
+.gallery {
+  text-align: center;
+  padding: 40px 20px;
+}
+
+.gallery h2 {
+  margin-bottom: 25px;
+  color: #0056b3;
+}
+
+.gallery-container {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+
+.gallery-container img {
+  width: 300px;
+  height: 200px;
+  object-fit: cover;
+  border-radius: 10px;
+  box-shadow: 0 3px 10px rgba(0,0,0,0.2);
+  transition: transform 0.3s ease;
+}
+
+.gallery-container img:hover {
+  transform: scale(1.05);
+}
