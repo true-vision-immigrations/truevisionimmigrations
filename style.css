@@ -32,10 +32,15 @@ nav a:hover {
 
 /* ====== Hero Section ====== */
 #hero {
-  background: linear-gradient(to right, #007bff, #00bfff);
+  background: url('https://images.unsplash.com/photo-1556742046-c6aebf9eae34') center/cover no-repeat;
   color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 60vh;
   text-align: center;
-  padding: 3rem 1rem;
+  padding: 40px 20px;
 }
 #hero h2 {
   margin-bottom: 1rem;
