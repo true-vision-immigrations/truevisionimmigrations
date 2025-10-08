@@ -1,33 +1,38 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Login | True Vision Immigrations</title>
-  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="style.css" />
 </head>
 <body>
-  <header>
-    <h1>Login to Your Account</h1>
+
+  <header class="navbar">
+    <div class="logo">True Vision Immigrations</div>
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="about.html">About</a>
+      <a href="services.html">Services</a>
+      <a href="contact.html">Contact</a>
+    </nav>
   </header>
 
-  <section>
-    <form class="auth-form">
-      <label>Email Address:</label>
-      <input type="email" placeholder="Enter your email" required>
-
-      <label>Password:</label>
-      <input type="password" placeholder="Enter your password" required>
-
-      <button type="submit">Login</button>
-    </form>
-    <p style="text-align:center;">Don’t have an account? 
-      <a href="signup.html">Sign up here</a>
-    </p>
+  <section class="form-section">
+    <div class="form-container">
+      <h2>Login</h2>
+      <form>
+        <input type="email" placeholder="Email Address" required />
+        <input type="password" placeholder="Password" required />
+        <button type="submit">Login</button>
+      </form>
+      <p>Don’t have an account? <a href="signup.html">Sign Up</a></p>
+    </div>
   </section>
 
   <footer>
-    <p>© 2025 True Vision Immigrations | FF4, 1st Floor, Shri Sidheshwar Business Harbour, Narayana Vidyala Road, Vadodara, Gujarat, India</p>
+    <p>© 2025 True Vision Immigrations</p>
   </footer>
+
 </body>
 </html>
